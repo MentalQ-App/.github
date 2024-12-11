@@ -1,9 +1,10 @@
 # C242-PS246 | MentalQ Bangkit Academy 2024 Batch 2 Capstone Team.
 
 <div align='center'>
-  <h1>
+  <h2>
   Health Innovation: Empowering Vulnerable Communities for Health and Well-being
   </h1>
+</div>
 
 ![image](https://github.com/user-attachments/assets/7e0ea2a3-dced-4717-b3c4-8d4e65cacb41)  
 
