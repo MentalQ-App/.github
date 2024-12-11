@@ -5,7 +5,8 @@ Team ID: C242-PS246
 
 Project Name: MentalQ
 
-![logo](https://github.com/user-attachments/assets/7e0ea2a3-dced-4717-b3c4-8d4e65cacb41)
+![image](https://github.com/user-attachments/assets/2cd08361-188c-4199-a1f6-e9b76df2b9c4)
+
 
 Theme: Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 
