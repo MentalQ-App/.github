@@ -1,4 +1,4 @@
-# 🧠 MentalQ: Your Digital Companion for Mental Wellness  
+# 🧠 MentalQ: A journaling app that understands your mental health.
 
 ![image](https://github.com/user-attachments/assets/7e0ea2a3-dced-4717-b3c4-8d4e65cacb41)  
 
