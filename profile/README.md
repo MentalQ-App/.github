@@ -1,5 +1,7 @@
 # C242-PS246 | MentalQ Bangkit Academy 2024 Batch 2 Capstone Team.
 
+Health Innovation: Empowering Vulnerable Communities for Health and Well-being
+
 ![image](https://github.com/user-attachments/assets/7e0ea2a3-dced-4717-b3c4-8d4e65cacb41)  
 
 ## 🌟 **What Is MentalQ?**  
@@ -72,6 +74,18 @@ MentalQ isn’t just about tracking—it’s about empowering **you** to:
 ## 🤝 **Join the Movement**  
 
 Mental health matters. Let’s redefine self-care for Gen Z, together.  
+
+---  
+
+##  **Team Members**  
+
+M129B4KX2462 – Melinda Naurah Salsabila – Politeknik Negeri Jember
+M227B4KY3579 – Rafi Achmad Fahreza – Universitas Jember 
+M129B4KY1504 – Fikri Faqih Al Fawwaz – Politeknik Negeri Jember
+C227B4KY2690 – Muhammad Afif Rohman Muzaky – Universitas Jember
+C227B4KY1611   – Gharizah Ligar Indrastata Alexandri – Universitas Jember
+A227B4KY4387 –  Valentino Hariyanto – Universitas Jember 
+A227B4KY1523 –  Firman Ardiansyah – Universitas Jember 
 
 ---  
 
