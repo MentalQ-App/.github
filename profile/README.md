@@ -4,7 +4,7 @@
 
 ## 🌟 **What Is MentalQ?**  
 
-MentalQ is *the* journaling app designed specifically for **Gen Z**—the tech-savvy, self-aware generation that values mental health. With MentalQ, you’ll better understand your feelings, track your mental wellness, and unlock personalized insights to help you thrive.  
+MentalQ is *the* journaling app designed specifically for **Gen Z**—the tech-savvy, self-aware generation that values mental health. With MentalQ, you’ll better understand your feelings, track your mental wellness, and unlock insights to help you thrive.  
 
 ---
 
@@ -23,15 +23,16 @@ Let’s face it, life’s tough:
 
 ### 🌈 **Daily Journaling Made Smart**  
 - Write your heart out—we’ll handle the analysis.  
-- Our **AI-powered sentiment tracker** understands your vibes.  
-
-### 🔮 **Weekly Insights, Just for You**  
-- Get personalized snapshots of your mental health journey.  
-- Discover patterns in your emotions.  
+- Our **AI-powered sentiment tracker** understands your vibes.   
 
 ### ⚡ **Stay Ahead of Stress**  
 - Early warnings about potential burnout or anxiety.  
 - Recommendations crafted to help you feel your best.  
+
+### 🗨️ **Chat with a Psychologist (Paid per session)**  
+- Connect directly with psychologists for personalized advice.  
+- Affordable, secure, and always available on your schedule.  
+- Unlock this feature with a simple in-app purchase.
 
 ---
 
