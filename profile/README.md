@@ -1,5 +1,5 @@
 ## MentalQ
-Capstone project for Bangkit 2024 Batch 1
+Capstone project for Bangkit 2024 Batch 2
 
 Team ID: C242-PS246
 
