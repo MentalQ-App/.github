@@ -1,5 +1,7 @@
 # 🧠 MentalQ: Your Personal Mental Health Companion 💡
 
+![image](https://github.com/user-attachments/assets/7e0ea2a3-dced-4717-b3c4-8d4e65cacb41)
+
 ## 🌟 Project Vision
 
 MentalQ is not just another mobile application—it's a breakthrough in personal mental health awareness and support. Our mission is to transform how individuals understand and manage their emotional well-being.
