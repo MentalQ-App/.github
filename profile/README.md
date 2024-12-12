@@ -54,7 +54,7 @@ This app could empower users to make informed decisions about self-care and, whe
 ![11](https://github.com/user-attachments/assets/224cfa3a-61cd-4e61-b272-286fb505f480)
 
 ## Video Demo
-[Video Demo Link](video_link)
+[Video Demo Link](https://youtu.be/zyE5q8csYjM)
 
 ## Our Repositories
 [MentalQ - CC](https://github.com/MentalQ-App/MentalQ-CC)
